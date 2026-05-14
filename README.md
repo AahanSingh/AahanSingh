@@ -24,4 +24,5 @@ Follow the build: [@aahan_builds](https://x.com/aahan_builds) on X
 🔗 [aahansingh.com](https://aahansingh.com)  
 💼 [LinkedIn](https://linkedin.com/in/aahansingh)  
 🐦 [@aahan_builds](https://x.com/aahan_builds)
+
 🎓[Google Scholar](https://scholar.google.com/citations?user=6Y4iGgIAAAAJ&hl=en)
