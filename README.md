@@ -12,7 +12,7 @@ diverges from institutional volume. 14-day build sprint, live updates daily.
 - **Agentic Systems** — LangGraph, Agno, multi-step reasoning pipelines
 - **RAG & LLM Infrastructure** — production retrieval, LiteLLM, model benchmarking  
 - **MLOps** — Kubernetes, Helm, Terraform, full deployment pipelines
-- **Research** — NeurIPS 2025: Prot42, Gene42, Chem42 (foundation models)
+- **Research** — NeurIPS 2025: [Prot42](https://neurips.cc/virtual/2025/loc/san-diego/129573), [Gene42](https://neurips.cc/virtual/2025/loc/san-diego/129540), [Chem42](https://neurips.cc/virtual/2025/loc/san-diego/129542) foundation models
 
 ## Currently Building
 
