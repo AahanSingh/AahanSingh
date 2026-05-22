@@ -3,7 +3,7 @@
 Applied Scientist and AI Engineer. I build production agentic systems — 
 the kind that run autonomously, reason about data, and ship to real users.
 
-Currently building **[CrowdVsWhale](https://github.com/AahanSingh/CrowdVsWhale)** 
+Currently building **[CrowdVsWhale]([https://github.com/AahanSingh/CrowdVsWhale](https://crowdvswhale.aahansingh.com/))** 
 in public — an AI sentiment pipeline that detects when retail crowd psychology 
 diverges from institutional volume. 14-day build sprint, live updates daily.
 
