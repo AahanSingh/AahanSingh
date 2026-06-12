@@ -24,7 +24,7 @@ Follow the build: [@aahan_builds](https://x.com/aahan_builds) on X
 
 ## Previous build quests
 
-🐳 [**CrowdVsWhale**](crowdvswhale.aahansingh.com) (LIVE in 14 days) → AI sentiment pipeline that detects when retail crowd psychology 
+🐳 [**CrowdVsWhale**](https://crowdvswhale.aahansingh.com) (LIVE in 14 days) → AI sentiment pipeline that detects when retail crowd psychology 
 diverges from institutional volume. 14-day build sprint, live updates daily.
 
 
